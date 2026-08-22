@@ -16,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 <!---LeetCode Topics End-->
