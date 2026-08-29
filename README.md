@@ -17,15 +17,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0412-fizz-buzz/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0412-fizz-buzz/) | Easy |
 | [1927-sum-game](https://github.com/notvarnika/LeetCodeQuestions/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0412-fizz-buzz/) | Easy |
 | [1927-sum-game](https://github.com/notvarnika/LeetCodeQuestions/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Greedy
