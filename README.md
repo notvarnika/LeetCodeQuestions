@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0001-two-sum/) | Easy |
+| [0735-asteroid-collision](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0735-asteroid-collision/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0412-fizz-buzz/) | Easy |
+| [0735-asteroid-collision](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0735-asteroid-collision/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -60,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0022-generate-parentheses/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
