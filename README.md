@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0012-integer-to-roman/) | Medium |
 | [0412-fizz-buzz](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/notvarnika/LeetCodeQuestions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1927-sum-game](https://github.com/notvarnika/LeetCodeQuestions/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0022-generate-parentheses/) | Medium |
+| [0509-fibonacci-number](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0735-asteroid-collision/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
