@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0012-integer-to-roman/) | Medium |
+| [0231-power-of-two](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/notvarnika/LeetCodeQuestions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -71,9 +72,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
