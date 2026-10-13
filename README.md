@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0022-generate-parentheses/) | Medium |
 | [0412-fizz-buzz](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0412-fizz-buzz/) | Easy |
