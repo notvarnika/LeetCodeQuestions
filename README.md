@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0412-fizz-buzz/) | Easy |
 | [1927-sum-game](https://github.com/notvarnika/LeetCodeQuestions/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -121,4 +122,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2659-make-array-empty](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2659-make-array-empty/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
