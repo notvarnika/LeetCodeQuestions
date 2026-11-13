@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0001-two-sum/) | Easy |
 | [0735-asteroid-collision](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0735-asteroid-collision/) | Medium |
+| [2659-make-array-empty](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2659-make-array-empty/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/notvarnika/LeetCodeQuestions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/notvarnika/LeetCodeQuestions/tree/main/1927-sum-game/) | Medium |
+| [2659-make-array-empty](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2659-make-array-empty/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +101,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/notvarnika/LeetCodeQuestions/tree/main/0112-path-sum/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2659-make-array-empty](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2659-make-array-empty/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2659-make-array-empty](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2659-make-array-empty/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2659-make-array-empty](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2659-make-array-empty/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2659-make-array-empty](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2659-make-array-empty/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2659-make-array-empty](https://github.com/notvarnika/LeetCodeQuestions/tree/main/2659-make-array-empty/) | Hard |
 <!---LeetCode Topics End-->
